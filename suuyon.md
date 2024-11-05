@@ -10,6 +10,8 @@
 ![Markdown](images/xfzndv523.jpg)
 
 
+![Markdown](images/perrobillar.jpg)
+
 ### 2. ¿Cuáles son las características principales de Markdown que lo hacen diferente de otros lenguajes de marcas de presentación? Compara Markdown con HTML. ¿Qué ventajas e inconvenientes tiene Markdown frente a HTML?
 
 Una de las principales características del lenguaje markdown, es la sencillez a la hora de utilizar ciertos comandos, este lenguaje pretende facilitar la lectura al usuario. Una de las principales ventajas respecto a html es al usar ciertas etiquetas, por ejemplo, en HTML, para enfatizar una palabra en negrita, se utilizan las etiquetas "b" o 'strong', mientras que en markdown se haría utilizando dos asteriscos tanto al inicio como al final del bloque de texto a destacar, de la siguiente manera, esta **palabra** va en negrita. Uno de los inconvenientes lo encontramos al usar elementos más complejos como listas, ya que en HTML tenemos la posibilidad de alterar el tamaño y usar distintos tipos de tabla en función de la necesidad del usuario, mientras que en markdown son mucho más sencillas y no ofrecen al usuario tanta posibilidad de personalización. 
