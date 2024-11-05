@@ -10,7 +10,7 @@
 ![Markdown](images/11c7aww_8.jpg)
 
 
-![Markdown](images/perrobillar.jpg)
+
 
 ### 2. ¿Cuáles son las características principales de Markdown que lo hacen diferente de otros lenguajes de marcas de presentación? Compara Markdown con HTML. ¿Qué ventajas e inconvenientes tiene Markdown frente a HTML?
 
