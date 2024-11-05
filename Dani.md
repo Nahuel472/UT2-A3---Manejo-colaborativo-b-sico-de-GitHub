@@ -1,4 +1,7 @@
 # UT1-A2
+
+[Enlace al readme](readme.md)
+
 ## Introducción de Markdown
 ### 1. ¿Qué es Markdown y para qué se utiliza?
 
