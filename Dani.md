@@ -2,6 +2,8 @@
 ## Introducción de Markdown
 ### 1. ¿Qué es Markdown y para qué se utiliza?
 
+![Markdown](images/images1.jpg)
+
  Markdown es un lenguaje de marcado que facilita la aplicación de formato a un texto empleando una serie de caracteres de una forma especial. En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. 
 
 #### ¿En qué contexto y por qué?
