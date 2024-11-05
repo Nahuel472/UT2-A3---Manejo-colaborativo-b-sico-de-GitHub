@@ -7,7 +7,7 @@
 #### ¿En qué contexto y por qué?
 **John Gruber** creó el lenguaje Markdown en 2004, con una ayuda de Aaron Swartz en la sintaxis. Gruber tenía la meta de hacer que la gente pudiera escribir usando un formato de texto llano fácil de leer, fácil de escribir y con la posibilidad de convertir su documento en HTML válido.
 
-![Markdown](432547040-54ee20f92eacbf809b266dd97a77af4999b3234d4c1b72ace8313a0e22bfad8b-d_750x421.avif)
+![Markdown](images/xfzndv523.jpg)
 
 
 ### 2. ¿Cuáles son las características principales de Markdown que lo hacen diferente de otros lenguajes de marcas de presentación? Compara Markdown con HTML. ¿Qué ventajas e inconvenientes tiene Markdown frente a HTML?
