@@ -89,6 +89,9 @@ Markdown admite la creación de listas, enlaces, imágenes y tablas de manera se
 Los archivos en Markdown pueden ser fácilmente convertidos a otros formatos, como HTML o PDF, lo que facilita la publicación y distribución de documentos en diferentes formatos.
 
 
+![Markdown](images/thisisfine.jpg)
+
+
 
 ### 7. ¿Existen diferentes "sabores" o variaciones de Markdown? Investiga si hay diferentes versiones o extensiones de Markdown, como GitHub Flavored Markdown (GFM). ¿En qué se diferencian de la versión estándar.
 
