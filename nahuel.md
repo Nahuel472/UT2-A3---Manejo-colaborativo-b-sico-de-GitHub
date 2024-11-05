@@ -2,7 +2,7 @@
 
 ## por Nahuel y derek
 
- ![imagen](images/mono (2).jpg)
+ ![imagen](images/mononaranja.png)
 
 
 ## preguntas
