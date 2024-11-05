@@ -47,7 +47,7 @@ Pese a que al principio puede ser un tanto tedioso escribir en markdown, una vez
 
 ### 7. ¿Existen diferentes "sabores" o variaciones de Markdown? Investiga si hay diferentes versiones o extensiones de Markdown, como GitHub Flavored Markdown (GFM). ¿En qué se diferencian de la versión estándar?
 
-
+![Markdown](images/db853423f0629028407d3d565433adf2.jpg)
 
 
 ### 8. ¿Cómo puede ser útil Markdown en el trabajo colaborativo en proyectos de software? Investiga  cómo Markdown es utilizado en entornos de colaboración, como en la documentación de proyectos de software en GitHub o la creación de archivos README.
